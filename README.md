@@ -1,6 +1,6 @@
 # 🔐 OWASP Top 10: Practical Cybersecurity Labs with DVWA
 
-[![OWASP Shield](https://img.shields.io/badge/OWASP-Top_10_2023-FF6A00?logo=owasp&logoColor=white)](https://owasp.org)
+[![OWASP Shield](https://img.shields.io/badge/OWASP-Top_10_2025-FF6A00?logo=owasp&logoColor=white)](https://owasp.org)
 [![DVWA](https://img.shields.io/badge/DVWA-1.10-42b983?logo=docker&logoColor=white)](https://dvwa.co.uk)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/abhish3k4/The-Breach-Lab?style=social)](https://github.com/abhish3k4/The-Breach-Lab/stargazers)
